@@ -1,0 +1,5 @@
+.idea/
+bin-debug/
+.DS_Store
+.wing/
+manifest.json
